@@ -5,7 +5,7 @@ A collection of Power BI project reports showcasing Visualization, data modeling
 
 ###1. Sales Analysis
 
-his Power BI dashboard provides a comprehensive view of Internet Sales and Reseller Sales across multiple countries, product categories, and promotional strategies. It enables stakeholders to monitor performance, compare sales channels, and identify opportunities for margin optimization and regional growth.
+his Power BI dashboard provides a comprehensive view of Internet Sales and Reseller Sales across six countries, product categories, and promotional strategies. It enables stakeholders to monitor performance, compare sales channels, and identify opportunities for margin optimization and regional growth.
 
 Used many measures using DAX and utilized them in visuals
 
@@ -16,6 +16,8 @@ Used many measures using DAX and utilized them in visuals
 - Support strategic decisions with clear KPIs and visual storytelling
 
   ![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Sales_report.png)
+
+  
 
 
 
