@@ -7,4 +7,4 @@ A collection of Power BI project reports showcasing Visualization, data modeling
 
 The Procurement / Spend Analysis Dashboard, built in Power BI, provides an interactive view of the company’s purchasing and spending trends. It highlights key metrics such as total purchases ($2.16B), total quantity (140M), and total purchase orders (8,367), enabling data-driven procurement decisions. The report visualizes top-performing suppliers, major spending categories, and package-wise purchase patterns while showcasing year-over-year purchase trends. This dashboard helps stakeholders identify cost-saving opportunities, evaluate supplier performance, and optimize procurement efficiency through clear, actionable insights.
 
-![Procurement Dashboard](./PowerBI-Portfolio/Procurement_Analysis/procurement_report.png)
+![Procurement Dashboard](./PowerBI-Portfolio/Procurement_Analysis)
