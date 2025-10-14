@@ -10,3 +10,5 @@ The Procurement / Spend Analysis Dashboard, built in Power BI, provides an inter
 ![Procurement Dashboard](Procuremt_report.png)
 
 On the next page, a metrics slicer is used. When one of the metric options is selected, the visualizations display trends based on that value.
+
+![Procurement Dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Report%20with%20metrics.png)
