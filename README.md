@@ -7,11 +7,15 @@ A collection of Power BI project reports showcasing Visualization, data modeling
 
 his Power BI dashboard provides a comprehensive view of Internet Sales and Reseller Sales across multiple countries, product categories, and promotional strategies. It enables stakeholders to monitor performance, compare sales channels, and identify opportunities for margin optimization and regional growth.
 
+Used many measures using DAX and utilized them in visuals
+
 🎯 Objectives
 - Compare profitability between Internet and Reseller sales channels
 - Analyze sales distribution by category, promotion, and geography
 - Enable dynamic filtering for personalized insights
 - Support strategic decisions with clear KPIs and visual storytelling
+
+  ![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Sales_report.png)
 
 
 
