@@ -15,3 +15,5 @@ On the next page, a metrics slicer is used. When one of the metric options is se
 
 On the next page, a tooltip page is built, which is used as tooltip in the report page.
 ![Procurement_Dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Tooltip.png)
+![Procurement_Dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Report%20with%20tooltip.png)
+
