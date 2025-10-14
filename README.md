@@ -18,5 +18,6 @@ On the next page, a tooltip page is built, which is used as tooltip in the repor
 ![Procurement_Dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Report%20with%20tooltip.png)
 
 On the next Drillthrough page is built named as Detailed page.
+![Procurement_Dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Drillthrough.png)
 
 
