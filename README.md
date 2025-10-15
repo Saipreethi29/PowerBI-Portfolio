@@ -52,6 +52,8 @@ On the next page, the analysis is done by Employee name with different measures.
 
 On the next page, Sales-cost Margin Analysis is done by using metrics for both Internet and reseller Sales.
 
+![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Sales-cost-MarginAnalysis.png)
+
 
 
   
