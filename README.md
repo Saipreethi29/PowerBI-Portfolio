@@ -14,8 +14,15 @@ Used many measures using DAX and utilized them in visuals
 - Analyze sales distribution by category, promotion, and geography
 - Enable dynamic filtering for personalized insights
 - Support strategic decisions with clear KPIs and visual storytelling
+- Enable to compare for different subcategories and different timeperiod by using Slicers
 
   ![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Sales_report.png)
+
+  On the next page, the analysis is done by customer name with different measures
+
+  ![dashboard](
+
+  
 
   
 
