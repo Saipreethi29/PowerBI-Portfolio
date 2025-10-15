@@ -5,7 +5,7 @@ A collection of Power BI project reports showcasing Visualization, data modeling
 
 ###1. Sales Analysis
 
-his Power BI dashboard provides a comprehensive view of Internet Sales and Reseller Sales across six countries, product categories, and promotional strategies. It enables stakeholders to monitor performance, compare sales channels, and identify opportunities for margin optimization and regional growth.
+This Power BI dashboard provides a comprehensive view of Internet Sales and Reseller Sales across six countries, product categories, and promotional strategies. It enables stakeholders to monitor performance, compare sales channels, and identify opportunities for margin optimization and regional growth.
 
 Used many measures using DAX and utilized them in visuals
 
@@ -16,23 +16,41 @@ Used many measures using DAX and utilized them in visuals
 - Support strategic decisions with clear KPIs and visual storytelling
 - Enable to compare for different subcategories and different timeperiod by using Slicers
 
-  ![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Sales_report.png)
+🛠️ Tools & Technologies
+- Power BI Desktop
+- DAX for margin calculations and dynamic KPIs
+- Power Query (M) for data transformation
+- DAX Measures (which are saved under ALL Measures table)
+- Copilot for some insights and some Dax measures
+- Dimensional Modeling using FactInternetSales, FactResellerSales, and related dimension tables
 
-  On the next page, the analysis is done by customer name with different measures
+📐 Data Model
+Star schema with fact tables for Internet and Reseller Sales, connected to dimensions like Product, Customer, Employee, Promotion, Geography, and Sales Territory.
 
-  ![dashboard](
+📈 Key Visuals
+- Cards for Total Sales, Total Cost, Margin, and Margin %
+- Bar charts for Sales by Category
+- Treemaps and donut charts for Sales by Region
+- Pie charts for Sales by Promotion
+- Slicers for Category, Subcategory, and Employee Name
+- Date filter for dynamic time-based analysis
+
+📌 Business Impact
+- Enabled regional managers to compare Internet vs Reseller performance
+- Identified high-margin categories and underperforming promotions
+- Improved visibility into global sales trends, supporting quarterly strategy reviews
+
+![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Sales_report.png)
+
+On the next page, the analysis is done by customer name with different measures
+
+![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Sales_customer_report.png)
+
+On the next page, the analysis is done by Employee name with different measures
+
+
 
   
-
-  
-
-
-
-
-
-
-
-
 
 ###2. Procurement or spend analysis
 
