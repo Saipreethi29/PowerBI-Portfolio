@@ -42,11 +42,15 @@ Star schema with fact tables for Internet and Reseller Sales, connected to dimen
 
 ![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Sales_report.png)
 
-On the next page, the analysis is done by customer name with different measures
+On the next page, the analysis is done by customer name with different measures.
 
 ![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Sales_customer_report.png)
 
-On the next page, the analysis is done by Employee name with different measures
+On the next page, the analysis is done by Employee name with different measures.
+
+![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Sales_employee_report.png)
+
+On the next page, Sales-cost Margin Analysis is done by using metrics for both Internet and reseller Sales.
 
 
 
