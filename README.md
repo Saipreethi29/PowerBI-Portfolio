@@ -54,10 +54,6 @@ On the next page, Sales-cost Margin Analysis is done by using metrics for both I
 
 ![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Sales-cost-MarginAnalysis.png)
 
-
-
-  
-
 ###2. Procurement or spend analysis
 
 The Procurement / Spend Analysis Dashboard, built in Power BI, provides an interactive view of the company’s purchasing and spending trends. It highlights key metrics such as total purchases ($2.16B), total quantity (140M), and total purchase orders (8,367), enabling data-driven procurement decisions. The report visualizes top-performing suppliers, major spending categories, and package-wise purchase patterns while showcasing year-over-year purchase trends. This dashboard helps stakeholders identify cost-saving opportunities, evaluate supplier performance, and optimize procurement efficiency through clear, actionable insights.
@@ -74,5 +70,31 @@ On the next page, a tooltip page is built, which is used as tooltip in the repor
 
 On the next Drillthrough page is built named as Detailed page.
 ![Procurement_Dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Drillthrough.png)
+
+🧩 Overview
+This dashboard provides a detailed analysis of product performance, reseller effectiveness, and category trends across six countries: United States, Canada, France, Germany, United Kingdom, and Australia. It empowers business stakeholders to examine unit sales, reseller growth, and category champions to support forecasting and inventory optimization.
+
+🎯 Business Objective
+To deliver actionable insights into reseller and sub-category unit sales trends. The dashboard helps supply chain managers identify best-selling products, underperforming regions, and top-performing resellers to guide purchasing and restocking strategies.
+
+🛠️ Tools & Technologies
+- Power BI Desktop & Service
+- DAX for percentage calculations and ranking logic
+- Power Query (M) for data processing
+- Microsoft Copilot for generating subtitles and refining Q&A logic
+- Star Schema Layout with FactResellerSales and Dim* tables
+- 
+📐 Data Model
+Star schema with FactResellerSales connected to DimProduct, DimProductCategory, DimProductSubcategory, DimCustomer, DimGeography, DimDate, and DimPromotion.
+
+📈 Key Visuals
+- 📊 100% stacked column chart for monthly units sold by category
+- 📊 Horizontal bar charts for:
+- Top 10 resellers by quantity sold
+- Top 10 resellers by retail sales
+- Top 10 products by total units sold
+- 📌 Text box with dynamic insights and highlights
+- 🌍 Country and year slicers for comparative analysis
+
 
 
