@@ -96,5 +96,9 @@ Star schema with FactResellerSales connected to DimProduct, DimProductCategory, 
 - 📌 Text box with dynamic insights and highlights
 - 🌍 Country and year slicers for comparative analysis
 
+![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Product_Analysis_report.png)
+
+
+
 
 
