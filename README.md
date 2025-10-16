@@ -111,7 +111,7 @@ On the next page, a tooltip page is built, which is used as tooltip in the repor
 
 On the next Drillthrough page is built.
 
-
+![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Product_drillthrough.png)
 
 
 
