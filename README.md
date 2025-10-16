@@ -105,6 +105,8 @@ Star schema with FactResellerSales connected to DimProduct, DimProductCategory, 
 
 On the next page, a tooltip page is built, which is used as tooltip in the report page.
 
+![dashboard](https://github.com/Saipreethi29/PowerBI-Portfolio/blob/main/Product_tooltip.png)
+
 
 
 
